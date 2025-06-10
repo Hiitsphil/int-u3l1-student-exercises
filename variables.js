@@ -1,5 +1,14 @@
 // CODE ALONG, PART 1
 let favoriteColor;
+let favoriteFood;
+let favoriteNumber;
+
+favoriteColor="Red";
+favoriteFood="Pizza";
+favoriteNumber=7;
+console.log(favoriteColor);
+console.log(favoriteNumber);
+console.log(favoriteFood);
 
 // 1. Create a variable called `favoriteFood`.
 

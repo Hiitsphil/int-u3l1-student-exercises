@@ -1,26 +1,38 @@
 // 1. Create a variable named `place` and set the value to a string that says whatever place you want.
+let place="Dubai";
 
 // 2. Create a variable named `creatureName` and set the value to a string that says whatever name you want to give the creature.
+let creatureName="Dragon";
 
 // 3. Create a variable named `color` and set the value to a string that says whatever color you want.
+let color="Purple";
 
 // 4. Create a variable named `color2` and set the value to a string that says a different color you want.
+let color2="Blue";
 
 // 5. Create a variable named `emotion` and set the value to a string that says whatever emotion you want.
+let emotion="Happy";
 
 // 6. Create a variable named `character` and set the value to a string that says whatever name for a character you want.
+let character="Jedediah";
 
 // 7. Create a variable named `number` and set the value to a number greater than 1.
+let number="5";
 
 // 8. Create a variable named `item` and set the value to a string that says whatever item/thing you want.
+let item="Laptop";
 
 // 9. Create a variable named `item2` and set the value to a string that says a different item/thing you want.
+let item2="Mouse";
 
 // 10. Create a variable named `verb` and set the value to a string that says whatever verb you want.
+let verb="Play";
 
 // 11. Create a variable named `adverb` and set the value to a string that says whatever adverb you want.
+let adverb="Ominously";
 
 // 12. Create a variable named `number2` and set the value to a number greater than 1.
+let number2="9"
 
 
 
